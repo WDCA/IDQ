@@ -10,7 +10,7 @@ IDQ Soul Wallet
 ## メンバー Discord ID
 
 1. QAQA#7612
-2. mashharuki#9415
+
 
 ## デモ動画
 
